@@ -1,0 +1,15 @@
+From mcr.mirosoft.com/dotnet/core/sdk:2.2 AS build-new
+WORKDIR /app
+
+
+COPY *.csproj ./
+RUN dotnet restoe
+
+COPY . ./
+RUN dotnet publish -c Release -o out
+
+From mcr.mirosoft.com/dotnet/core/sdk:2.2 AS build-new
+WORKDIR /app
+EXPOSE 80
+COPY --from=bhild-env/app/out
+ENTRYPOINT ["dotnet", DockerAPI.dll]

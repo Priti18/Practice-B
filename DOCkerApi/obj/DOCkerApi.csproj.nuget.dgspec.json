@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\mahim\\OneDrive\\Desktop\\Working Folder\\Practice-B\\DockerApi\\DOCkerApi.csproj": {}
+    "C:\\Users\\mahim\\OneDrive\\Desktop\\Working Folder\\Practice-B\\DockerAPI\\DockerAPI.csproj": {}
   },
   "projects": {
-    "C:\\Users\\mahim\\OneDrive\\Desktop\\Working Folder\\Practice-B\\DockerApi\\DOCkerApi.csproj": {
+    "C:\\Users\\mahim\\OneDrive\\Desktop\\Working Folder\\Practice-B\\DockerAPI\\DockerAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\mahim\\OneDrive\\Desktop\\Working Folder\\Practice-B\\DockerApi\\DOCkerApi.csproj",
-        "projectName": "DOCkerApi",
-        "projectPath": "C:\\Users\\mahim\\OneDrive\\Desktop\\Working Folder\\Practice-B\\DockerApi\\DOCkerApi.csproj",
+        "projectUniqueName": "C:\\Users\\mahim\\OneDrive\\Desktop\\Working Folder\\Practice-B\\DockerAPI\\DockerAPI.csproj",
+        "projectName": "DockerAPI",
+        "projectPath": "C:\\Users\\mahim\\OneDrive\\Desktop\\Working Folder\\Practice-B\\DockerAPI\\DockerAPI.csproj",
         "packagesPath": "C:\\Users\\mahim\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\mahim\\OneDrive\\Desktop\\Working Folder\\Practice-B\\DockerApi\\obj\\",
+        "outputPath": "C:\\Users\\mahim\\OneDrive\\Desktop\\Working Folder\\Practice-B\\DockerAPI\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\mahim\\AppData\\Roaming\\NuGet\\NuGet.Config",

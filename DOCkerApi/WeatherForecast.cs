@@ -1,6 +1,6 @@
 using System;
 
-namespace DOCkerApi
+namespace DockerAPI
 {
     public class WeatherForecast
     {

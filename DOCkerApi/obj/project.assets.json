@@ -198,11 +198,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\mahim\\OneDrive\\Desktop\\Working Folder\\Practice-B\\DOCkerApi\\DOCkerApi.csproj",
-      "projectName": "DOCkerApi",
-      "projectPath": "C:\\Users\\mahim\\OneDrive\\Desktop\\Working Folder\\Practice-B\\DOCkerApi\\DOCkerApi.csproj",
+      "projectUniqueName": "C:\\Users\\mahim\\OneDrive\\Desktop\\Working Folder\\Practice-B\\DockerAPI\\DockerAPI.csproj",
+      "projectName": "DockerAPI",
+      "projectPath": "C:\\Users\\mahim\\OneDrive\\Desktop\\Working Folder\\Practice-B\\DockerAPI\\DockerAPI.csproj",
       "packagesPath": "C:\\Users\\mahim\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\mahim\\OneDrive\\Desktop\\Working Folder\\Practice-B\\DOCkerApi\\obj\\",
+      "outputPath": "C:\\Users\\mahim\\OneDrive\\Desktop\\Working Folder\\Practice-B\\DockerAPI\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\mahim\\AppData\\Roaming\\NuGet\\NuGet.Config",
